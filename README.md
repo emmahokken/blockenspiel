@@ -3,7 +3,7 @@
 Fibonacci sequence grid game. Click on a cell in the gird and try to form the Fibonacci sequence. 
 A Vue3 app that displays a dynamic grid of numbers, that, when clicked, change value and colour. When a Fibonacci sequence of 5 is foumd, the row is reset. 
 
-## Getting started
+## Getting started with Vue
 
 ### Prerequisites
 * Node.js 16 or higher (for local development)
@@ -29,3 +29,6 @@ To run the written tests, run
 
 `make test`
 
+## Getting started with React
+
+Run `npm run dev`. 
