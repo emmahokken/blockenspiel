@@ -1,6 +1,12 @@
-import React from 'react';
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+import React from 'react'
+import './App.css'
 import Grid from './components/Grid'; // make sure components/Grid.jsx exists
 
-export default function App() {
-  return <Grid />;
+function App() {
+    return <Grid />;
 }
+
+export default App
